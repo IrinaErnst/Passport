@@ -1,15 +1,15 @@
 # Passport
 
-# Swift iOS Programming Challenge for Passport
+###### Swift iOS Programming Challenge for Passport
 ### Author: Irina Ernst
 ### Date: October 20th, 2016
 
-## Requirements:
+### Requirements:
 
 * Swift 3.0
 * Xcode 
 * Firebase 
 
-## Pods:
+### Pods:
 * Alamofire
 * SwiftyJSON
